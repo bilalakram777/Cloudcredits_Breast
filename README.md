@@ -1,0 +1,2 @@
+Breast Cancer Classification using SVM and Random Forest
+This project uses Support Vector Machine (SVM) and Random Forest classifiers to predict whether breast cancer tumors are benign or malignant based on features from the brca.csv dataset. The dataset is split into training and testing sets, scaled, and then evaluated using accuracy, precision, recall, and classification reports for both models.
